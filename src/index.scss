@@ -1,0 +1,47 @@
+html, body {
+  background-color: teal;
+}
+
+.navigation {
+  margin: 0 auto;
+  a{
+    text-decoration: none;
+    font-size: 35px;
+    padding-right: 10px;
+  }
+}
+
+.home-view {
+  min-width: 300px;
+  min-height: 300px;
+  background-color: #40a070;
+  margin: 0 auto;
+}
+
+.nested-view {
+  min-width: 300px;
+  min-height: 300px;
+  background-color: #006600;
+  margin: 0 auto;
+  ul{
+    list-style: none;
+    li{
+      display: inline;
+      margin-left: 10px;
+    }
+  }
+}
+
+.child-one {
+  width: 80%;
+  height: 150px;
+  background-color: #008800;
+  margin: 0 auto;
+}
+
+.child-two{
+  width: 80%;
+  height: 150px;
+  background-color: #66CC44;
+  margin: 0 auto;
+}

@@ -1,0 +1,52 @@
+[{
+  "name": "Bulgaria",
+  "capital": "Sofia",
+  "altSpellings": [
+    "BG",
+    "Republic of Bulgaria",
+    "Република България"
+  ],
+  "relevance": "0",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "translations": {
+    "de": "Bulgarien",
+    "es": "Bulgaria",
+    "fr": "Bulgarie",
+    "ja": "ブルガリア",
+    "it": "Bulgaria"
+  },
+  "population": 7202198,
+  "latlng": [
+    43,
+    25
+  ],
+  "demonym": "Bulgarian",
+  "area": 110879,
+  "gini": 28.2,
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "GRC",
+    "MKD",
+    "ROU",
+    "SRB",
+    "TUR"
+  ],
+  "nativeName": "България",
+  "callingCodes": [
+    "359"
+  ],
+  "topLevelDomain": [
+    ".bg"
+  ],
+  "alpha2Code": "BG",
+  "alpha3Code": "BGR",
+  "currencies": [
+    "BGN"
+  ],
+  "languages": [
+    "bg"
+  ]
+}]
